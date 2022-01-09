@@ -1,3 +1,4 @@
+# 샤딩, 파티셔닝 테이블, view
 # database_practice
 
 ## 몽고 DB 공부 제대로
