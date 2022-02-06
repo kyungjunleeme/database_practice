@@ -1,3 +1,9 @@
+# design pattern 
+https://www.b-list.org/weblog/2007/dec/03/magic/
+https://www.b-list.org/weblog/2020/mar/23/still-no-service/
+https://www.dabapps.com/blog/django-models-and-encapsulation/
+
+
 # 샤딩, 파티셔닝 테이블, view
 # database_practice
 
