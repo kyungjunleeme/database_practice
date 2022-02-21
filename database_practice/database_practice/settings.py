@@ -38,10 +38,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_extensions',
-    'cookbook',
     'board',
-    'shop',
+    'cookbook',
+    'marvel',
+    'pizzashop',
     'poll',
+    'shop',
+
 ]
 
 MIDDLEWARE = [
