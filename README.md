@@ -1,3 +1,9 @@
+# 무중단 배포 - In djago
+https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b
+https://blog.myungseokang.dev/posts/online-schema-change/
+https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/
+
+
 # DTO, DAO, VO 
 
 
