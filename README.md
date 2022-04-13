@@ -1,3 +1,7 @@
+# 최근 내가 본 자료 중 역대급 자료다 - postgresql의 내부
+https://www.interdb.jp/pg/?fbclid=IwAR0dLMGVuab-beQWvtviY1LQN5CUfKv_Vwa89g15gfHhSStNUCVkNYZzS6M
+
+
 # 무중단 배포 - In djago
 https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b
 https://blog.myungseokang.dev/posts/online-schema-change/
