@@ -1,3 +1,6 @@
+# empty vs null
+https://stackoverflow.com/questions/7565073/django-null-and-empty-string
+
 # 최근 내가 본 자료 중 역대급 자료다 - postgresql의 내부
 https://www.interdb.jp/pg/?fbclid=IwAR0dLMGVuab-beQWvtviY1LQN5CUfKv_Vwa89g15gfHhSStNUCVkNYZzS6M
 
